@@ -49,21 +49,17 @@ Isso facilita a leitura do histórico, a criação de ferramentas automatizadas 
 
 Estrutura Básica de um Commit:
 ```
-  <tipo>(escopo opcional): <descrição breve>
+  <tipo>: <descrição breve>
 
   [corpo opcional]
 
   [rodapé opcional]
 ```
 
-**Tipo**: Indica a natureza da alteração (ex: feat, fix, docs).
-
-**Descrição**: Uma breve explicação do que foi feito.
-
-**Corpo**: Detalhes adicionais (opcional).
-
+**Tipo**: Indica a natureza da alteração (ex: feat, fix, docs).\
+**Descrição**: Uma breve explicação do que foi feito.\
+**Corpo**: Detalhes adicionais (opcional).\
 **Rodapé**: Informações como revisores ou números de tarefas (opcional).
-
 
 # Tipos de Commit e Exemplos Práticos 🎯
 
